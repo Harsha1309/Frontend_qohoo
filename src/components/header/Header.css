@@ -1,0 +1,44 @@
+.background{
+    /* height: 50vh; */
+    background-color: #161E3C;
+}
+
+.empty_div{
+    padding-top: 10px;
+    background: #C1CFFF;
+    border-radius: 100%;
+    /* margin-right: 15px; */
+}
+
+.img_div{
+    background: #FB9B43;
+    padding: auto;
+    border: 1px solid black;
+    border-radius: 100%;
+    text-align: center;
+    /* width: 60px;
+    height: 60px; */
+}
+
+.button_view{
+    background: #FB9B43;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+@media only screen and (max-width: 992px) {
+
+    .header{
+        margin-left: 125px;
+        margin-right: 125px;
+        padding-top: 80px;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .header{
+        margin-left: 255px;
+        margin-right: 255px;
+        padding-top: 80px;
+    }
+}

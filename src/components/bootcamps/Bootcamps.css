@@ -1,0 +1,40 @@
+.description{
+    background: #FFD7B1;
+    margin-left: 131.5px;
+    margin-right: 131.5px;
+    margin-top: 24px;
+    height: 362px;
+    align-items: center;
+    justify-content: center;
+}
+.category{
+    margin-left: 301px;
+    margin-right: 301px;
+}
+
+.button_join{
+    background: #161E3C;
+    color: white;
+    border-radius: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.c1{
+    background: #FB9B43;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.c2,.c3{
+    background: #FFD7B1;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

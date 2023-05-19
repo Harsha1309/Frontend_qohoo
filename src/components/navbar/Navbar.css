@@ -1,0 +1,18 @@
+.ml-auto {
+    margin-left: auto !important;
+  }
+  
+  /* .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  } */
+
+  a{
+    color: white !important;
+  }
+
+  .login_div{
+    border: 2px solid white;
+    border-radius: 20px;
+  }
